@@ -21,11 +21,13 @@ code_clipboard: true
 
 # Introduction
 
-Welcome to the Kittn API! You can use our API to access Kittn API endpoints, which can get information on various cats, kittens, and breeds in our database.
+Welcome to the Invenias API! 
 
-We have language bindings in Shell, Ruby, Python, and JavaScript! You can view code examples in the dark area to the right, and you can switch the programming language of the examples with the tabs in the top right.
+Invenias has a REST API for integrations, providing programmatic access to create, read, update and delete data from your Invenias database.
 
-This example API documentation page was created with [Slate](https://github.com/slatedocs/slate). Feel free to edit it and use it as a base for your own API's documentation.
+The invenias API Swagger UI documentation can be founr by navigating to https://{subdomain}.invenias.com.
+
+N.B. You will need to replace the placeholder named {subdomain} with the subdomain for your tenant.
 
 # Authentication
 
